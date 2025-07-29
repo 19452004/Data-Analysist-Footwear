@@ -19,6 +19,6 @@ serta strategi apa yang bisa diambil untuk meningkatkan revenue dan mengurangi r
   🛠 Tools yang Digunakan:
   -Microsoft Excel (Data Cleaning & Preprocessing)
   -Google Looker Studio (Dashboard & Visualisasi Interaktif)
-   (Opsional: Python - Pandas untuk cek statistik data)
+
 
   Sebuah dashboard visual yang membantu stakeholder memahami performa harian, per kategori, hingga per marketplace secara cepat dan akurat.
